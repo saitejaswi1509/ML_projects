@@ -114,8 +114,6 @@ Open the notebooks in **Google Colab** or **Jupyter Notebook** and can directly 
 * Scikit‑learn Documentation: [https://scikit-learn.org](https://scikit-learn.org)
 * TensorFlow / Keras: [https://www.tensorflow.org](https://www.tensorflow.org)
 
-------
-
 ## Author
 
 **Sai Tejaswi Kondapally**

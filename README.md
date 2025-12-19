@@ -119,5 +119,4 @@ Open the notebooks in **Google Colab** or **Jupyter Notebook** and can directly 
 ## Author
 
 **Sai Tejaswi Kondapally**
-Machine Learning 
-Computer Science Student
+
